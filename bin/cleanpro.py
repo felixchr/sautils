@@ -3,7 +3,7 @@
 _doc_ = '''
 cleanpro.py - remove expired files or directories
 
-Author: Felix@Aicent Inc
+Author: felix.chr@gmail.com
 Usage:
 cleanpro.py -c <configuration file>
 
