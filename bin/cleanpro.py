@@ -3,7 +3,7 @@
 _doc_ = '''
 cleanpro.py - remove expired files or directories
 
-Author: felix.chr@gmail.com
+Author: Felix Cao(felix.chr@gmail.com)
 Usage:
 cleanpro.py -c <configuration file>
 
@@ -13,12 +13,12 @@ Configuration file example:
 [global]
 basedir=/export/home/felixc
 logfile=/export/home/felixc/cleanpro.log
-admin=felix.cao@aicent.com
+admin=felix.cao@felix.com
 # subject definition:
 # %host%: hostname
 # %user%: current user
 alertsubject=[Alert]: Cleanpro Error on %host% by %user%
-alertfrom=nocadm@aicent.com
+alertfrom=nocadm@felix.com
 [cap]
 path=/export/home/felixc/cap
 pattern=.*(\d{14}).cap

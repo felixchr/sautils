@@ -3,7 +3,7 @@
 _doc_ = '''
 dbcleaner.py - remove expired data from database
 
-Author: felix.chr@gmail.com
+Author: Felix Cao(felix.chr@gmail.com)
 Usage:
 dbcleaner.py -c <configuration file>
 '''

@@ -3,7 +3,7 @@
 _doc_ = '''
 packpro.py - remove expired files or directories
 
-Author: felix.chr@gmail.com
+Author: Felix Cao(felix.chr@gmail.com)
 Usage:
 packpro.py -c <configuration file>
 

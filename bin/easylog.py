@@ -4,7 +4,7 @@ import sys,string, os
 import time
 '''
 	Write log to logfile
-	Author: felix.chr@gmail.com
+	Author: Felix Cao(felix.chr@gmail.com)
 	usage:
 		log = easyLog(mName, 'yourfile.log')
 		log.log('Error 443')
